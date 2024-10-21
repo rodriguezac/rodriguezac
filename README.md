@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodriguezac
 - 👀 I’m interested in learn more about Front-End
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on any Front- Endproyect
 - 📫 How to reach me Angélica Rodríguez on linkedIn
 
